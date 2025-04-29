@@ -21,16 +21,17 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafik
 
 ## 🔍 Zakres tematyczny
 
-- Różne podejścia do algorytmów:  
-  - Metoda brutalna.  
-- Implementacja konkretnych struktur danych:  
-  - Tablica dynamiczna.  
-  - Uporządkowana tablica dynamiczna.  
-- Implementacja abstrakcyjnych struktur danych:  
-  - Zbiór za pomocą klasy TreeSet.  
-  - Zbiór za pomocą klasy HashSet.  
-- Implementacja metod sortowania:  
-  - Bąbelkowe (Bubble Sort).  
+- Podstawy grafiki komputerowej:  
+  - Wypełnianie obszarów kolorem.  
+  - Rysowanie podstawowych kształtów.  
+- Przekształcenia geometryczne:  
+  - Translacja, skalowanie i obrót obiektów graficznych.  
+  - Symetria i odbicia lustrzane.  
+  - Zastosowanie macierzy transformacji.​  
+- Zaawansowane techniki graficzne:  
+  - Implementacja algorytmów rysowania (np.: Naive, DDA, Bresenham).  
+  - Wczytywanie obiektu 3D i pracowanie na tym obiekcie.  
+  - Tworzenie renderów (np.: Flat Shading, Backface Culling, Z-Buffor).  
 
 ---
 
