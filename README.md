@@ -31,7 +31,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafik
 - Zaawansowane techniki graficzne:  
   - Implementacja algorytmów rysowania (np.: Naive, DDA, Bresenham).  
   - Wczytywanie obiektu 3D i praca na tym obiekcie.  
-  - Tworzenie renderów (np.: Flat Shading, Backface Culling, Z-Buffor).  
+  - Tworzenie renderów (np.: Flat Shading, Backface Culling, Z-Buffer).  
 
 ---
 
