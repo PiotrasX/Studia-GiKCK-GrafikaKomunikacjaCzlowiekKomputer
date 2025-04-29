@@ -27,10 +27,10 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafik
 - Przekształcenia geometryczne:  
   - Translacja, skalowanie i obrót obiektów graficznych.  
   - Symetria i odbicia lustrzane.  
-  - Zastosowanie macierzy transformacji.​  
+  - Macierze transformacji.​  
 - Zaawansowane techniki graficzne:  
   - Implementacja algorytmów rysowania (np.: Naive, DDA, Bresenham).  
-  - Wczytywanie obiektu 3D i pracowanie na tym obiekcie.  
+  - Wczytywanie obiektu 3D i praca na tym obiekcie.  
   - Tworzenie renderów (np.: Flat Shading, Backface Culling, Z-Buffor).  
 
 ---
