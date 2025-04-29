@@ -8,7 +8,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafik
 
 ## 📁 Struktura repozytorium
 
-- `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych oraz samodzielnie jako uzupełnienie, rozszerzenie i utrwalenie materiału.  
+- `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych oraz w ramach samodzielnej pracy. Obejmują implementację podstawowych i zaawansowanych technik graficznych oraz przekształceń graficznych.  
 
 ---
 
