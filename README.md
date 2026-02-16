@@ -1,6 +1,6 @@
 # 📘 Studia - GiKCK - Grafika i Komunikacja Człowiek Komputer
 
-Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafika i Komunikacja Człowiek Komputer**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów informatycznych.  
+Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafika i Komunikacja Człowiek Komputer**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
 &nbsp;  
 
@@ -8,14 +8,14 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafik
 
 ## 📁 Struktura repozytorium
 
-- `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych oraz w ramach samodzielnej pracy. Obejmują implementację podstawowych i zaawansowanych technik graficznych oraz przekształceń geometrycznych.  
+- `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć laboratoryjnych oraz w ramach pracy samodzielnej. Obejmują implementację algorytmów grafiki komputerowej, przekształceń geometrycznych oraz technik renderowania modeli 2D i 3D. Repozytorium zawiera między innymi: obsługę modeli w formacie OBJ czy implementację własnego renderera.  
 
 ---
 
 ## ⚙️ Wykorzystane technologie
 
-- `Język programowania:` Java.  
-- `IDE:` IntelliJ IDEA Community Edition.  
+- `Technologie:` Java.  
+- `Środowiska programistyczne (IDE):` IntelliJ IDEA Community Edition.  
 
 ---
 
@@ -25,13 +25,18 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafik
   - Wypełnianie obszarów kolorem.  
   - Rysowanie podstawowych kształtów.  
 - Przekształcenia geometryczne:  
-  - Translacja, skalowanie i obrót obiektów graficznych.  
+  - Translacja, skalowanie, rotacja.  
   - Symetria i odbicia lustrzane.  
   - Macierze transformacji.​  
-- Zaawansowane techniki graficzne:  
-  - Implementacja algorytmów rysowania (np.: Naive, DDA, Bresenham).  
-  - Wczytywanie obiektu 3D i praca na tym obiekcie.  
-  - Tworzenie renderów (np.: Flat Shading, Backface Culling, Z-Buffer).  
+- Grafika 3D:  
+  - Wczytywanie modeli w formacie OBJ.  
+  - Rzutowanie równoległe.  
+  - Flat shading (cieniowanie płaskie).  
+  - Backface-culling.  
+  - Test z-buffora.  
+- Operacje na modelach:  
+  - Transformacje obiektów w przestrzeni.  
+  - Praca na współrzędnych wierzchołków i ścian.  
 
 ---
 
