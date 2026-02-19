@@ -1,4 +1,4 @@
-# 📘 Studia - GiKCK - Grafika i Komunikacja Człowiek Komputer
+# 📘 Studia – GiKCK - Grafika i Komunikacja Człowiek Komputer
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Grafika i Komunikacja Człowiek Komputer**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
